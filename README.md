@@ -1,3 +1,5 @@
+Machine learning exercises using different numerical methods including Naive Bayes, LDA/QDA, and regression.
+
 # Spam Email Classifier
 Spam email classifier algorithm using Naive Bayes (Naive_Bayes.py)
 
