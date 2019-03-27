@@ -1,7 +1,8 @@
+# ML-Numerical-Methods
 Machine learning exercises using different numerical methods including Naive Bayes, LDA/QDA, and regression.
 
-# Spam Email Classifier
+### Spam Email Classifier
 Spam email classifier algorithm using Naive Bayes (Naive_Bayes.py)
 
-# Gender Classifier
+### Gender Classifier
 Determining the gender based on height and weight data using Linear discriminant analysis (LDA) and Quadratic discriminant analysis (QDA) (LDA_QDA.py)
